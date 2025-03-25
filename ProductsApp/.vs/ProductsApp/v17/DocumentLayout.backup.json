@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lauey\\Desktop\\ProductsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79FF0ED2-AE24-4668-94B5-C9D645AF8C60}|ProductsApp.Tests\\ProductsApp.Tests.csproj|c:\\users\\lauey\\desktop\\productsapp\\productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79FF0ED2-AE24-4668-94B5-C9D645AF8C60}|ProductsApp.Tests\\ProductsApp.Tests.csproj|solutionrelative:productsapp.tests\\testsimpleproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A787F24-7896-45B2-BADE-CC1E6729598D}|ProductsApp\\ProductsApp.csproj|C:\\Users\\lauey\\Desktop\\ProductsApp\\productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A787F24-7896-45B2-BADE-CC1E6729598D}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A787F24-7896-45B2-BADE-CC1E6729598D}|ProductsApp\\ProductsApp.csproj|C:\\Users\\lauey\\Desktop\\ProductsApp\\productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A787F24-7896-45B2-BADE-CC1E6729598D}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 262,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestSimpleProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lauey\\Desktop\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
+              "RelativeDocumentMoniker": "ProductsApp.Tests\\TestSimpleProductController.cs",
+              "ToolTip": "C:\\Users\\lauey\\Desktop\\ProductsApp\\ProductsApp.Tests\\TestSimpleProductController.cs",
+              "RelativeToolTip": "ProductsApp.Tests\\TestSimpleProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:28:24.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\lauey\\Desktop\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\lauey\\Desktop\\ProductsApp\\ProductsApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductsApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:15:27.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lauey\\Desktop\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\lauey\\Desktop\\ProductsApp\\ProductsApp\\Models\\Product.cs",
+              "RelativeToolTip": "ProductsApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:13:44.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
